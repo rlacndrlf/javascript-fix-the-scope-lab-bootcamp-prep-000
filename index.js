@@ -1,5 +1,5 @@
 var animal = 'dog'
-
+var animal2 = ''
 function myAnimal() {
   // You should not need to modify this function
   return animal
